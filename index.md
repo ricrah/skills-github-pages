@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Ispik: Another wonderful day in the void.
 ---
